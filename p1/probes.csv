@@ -1,0 +1,6 @@
+Net,/Out,CMOS,Inverter
+Net,/In,CMOS,Inverter
+Net,/vdd!,CMOS,Inverter
+Net,/I0/vdd!,,
+Net,/gnd!,CMOS,Inverter
+Net,/I1/gnd!,,
