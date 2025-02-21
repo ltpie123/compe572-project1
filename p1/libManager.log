@@ -1,190 +1,23 @@
 \o Program:		@(#)$CDS: libManager version 6.1.8 - CAT37 12/06/2022 20:58 (sjfdcl1033) $
 \o Sub version:		sub-version  s303 
-\o Arguments:		-mpssession virtuoso818017 -mpshost volta 
-\o Working Directory:	volta:/home/echokeir2900/projects/p1
+\o Arguments:		-mpssession virtuoso2932235 -mpshost volta 
+\o Working Directory:	volta:/home/echokeir2900/projects/compe572-project1/p1
 \o 64-bit offsets
 \o Qt version: 		5.9.1
-\o Log file is "/home/echokeir2900/projects/p1/libManager.log".
+\o Log file is "/home/echokeir2900/projects/compe572-project1/p1/libManager.log".
 \o Opening libManager window.
-\a nrResizeWindow(cdsLibManager list(1288 39 624 1391))
+\a nrResizeWindow(cdsLibManager list(1 31 583 796))
 \a nrSetCurrentWindow(cdsLibManager)
-\a nrResizeWindow(cdsLibManager list(1928 36 622 674))
-\o changeWorkingDir("/home/echokeir2900/projects/p1") unnecessary.
+\a nrResizeWindow(cdsLibManager list(8 31 583 796))
+\o changeWorkingDir("/home/echokeir2900/projects/compe572-project1/p1") unnecessary.
 \o ddSetForcedLib("") unnecessary.
 \o MPS service: map window
 \o Library Manager customization server connected.
-\w Warning: LIB basic from File /home/echokeir2900/projects/p1/cds.lib Line 2 redefines
+\w Warning: LIB basic from File /home/echokeir2900/projects/compe572-project1/p1/cds.lib Line 2 redefines
 \w LIB basic from File /export/opt/cadence/installs/IC618/tools.lnx86/dfII/etc/cdsDotLibs/composer/cds.lib
 \w Insert UNDEFINE basic
 \w before DEFINE basic
-\w     in /home/echokeir2900/projects/p1/cds.lib
-\w Or remove or comment out DEFINE basic
-\w     in /export/opt/cadence/installs/IC618/tools.lnx86/dfII/etc/cdsDotLibs/composer/cds.lib
-\w to suppress this warning message.
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrResizeWindow(cdsLibManager list(1885 61 622 674))
-\a nrResizeWindow(cdsLibManager list(605 136 528 572))
-\a nrResizeWindow(cdsLibManager list(648 36 624 674))
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrResizeWindow(cdsLibManager list(760 36 736 674))
-\a nrResizeWindow(cdsLibManager list(801 36 776 674))
-\a nrResizeWindow(cdsLibManager list(643 36 618 674))
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a cdsLibManager->FileNewLibButton->value = t
-\a nrSetWindowVisibility(NewLibShell "show")
-\a nrResizeWindow(NewLibShell list(689 54 507 559))
-\a nrSetCurrentWindow(NewLibShell)
-\a nrSetCurrentWindow(NewLibShell->subDialog)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(NewLibShell)
-\a nrSetCurrentWindow(NewLibShell->subDialog)
-\a NewLibShell->newLibNameText->value = "CMOS"
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(NewLibShell)
-\a nrSetCurrentWindow(NewLibShell->subDialog)
-\a NewLibShell->QLineEdit1->value = ""
-\a NewLibShell->QLineEdit1->value = "/"
-\a NewLibShell->QLineEdit1->value = ""
-\a NewLibShell->QLineEdit1->value = "/home"
-\a NewLibShell->QLineEdit1->value = ""
-\a NewLibShell->QLineEdit1->value = "/home/echokeir2900"
-\a NewLibShell->QLineEdit1->value = ""
-\a NewLibShell->QLineEdit1->value = "/home/echokeir2900/projects"
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(NewLibShell)
-\a nrSetCurrentWindow(NewLibShell->subDialog)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(NewLibShell)
-\a nrSetCurrentWindow(NewLibShell->subDialog)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(NewLibShell)
-\a nrSetCurrentWindow(NewLibShell->subDialog)
-\a NewLibShell->QLineEdit1->value = ""
-\a NewLibShell->QLineEdit1->value = "/home/echokeir2900/projects/New_Folder"
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(NewLibShell)
-\a nrSetCurrentWindow(NewLibShell->subDialog)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(NewLibShell)
-\a nrSetCurrentWindow(NewLibShell->subDialog)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrResizeWindow(cdsLibManager list(717 36 544 679))
-\a nrSetCurrentWindow(NewLibShell)
-\a nrSetCurrentWindow(NewLibShell->subDialog)
-\a nrResizeWindow(cdsLibManager list(717 36 544 649))
-\a nrResizeWindow(cdsLibManager list(469 36 349 717))
-\a nrResizeWindow(cdsLibManager list(734 36 558 699))
-\a nrResizeWindow(cdsLibManager list(920 36 705 705))
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(NewLibShell)
-\a nrSetCurrentWindow(NewLibShell->subDialog)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(NewLibShell)
-\a nrSetCurrentWindow(NewLibShell->subDialog)
-\a NewLibShell->QLineEdit1->value = ""
-\a NewLibShell->QLineEdit1->value = "/home/echokeir2900"
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(NewLibShell)
-\a nrSetCurrentWindow(NewLibShell->subDialog)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(NewLibShell)
-\a nrSetCurrentWindow(NewLibShell->subDialog)
-\a NewLibShell->QLineEdit1->value = ""
-\a NewLibShell->QLineEdit1->value = "/home/echokeir2900/projects"
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(NewLibShell)
-\a nrSetCurrentWindow(NewLibShell->subDialog)
-\a NewLibShell->QLineEdit1->value = ""
-\a NewLibShell->QLineEdit1->value = "/home/echokeir2900/projects/library"
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(NewLibShell)
-\a nrSetCurrentWindow(NewLibShell->subDialog)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(NewLibShell)
-\a nrSetCurrentWindow(NewLibShell->subDialog)
-\a NewLibShell->newLibOKButton->value = t
-\a nrSetWindowVisibility(workingDialogForm "show")
-\a nrResizeWindow(workingDialogForm list(1124 282 277 133))
-\a nrSetCurrentWindow(workingDialogForm)
-\o Created new library "CMOS" at /home/echokeir2900/projects/library/CMOS.
-\w Warning: LIB basic from File /home/echokeir2900/projects/p1/cds.lib Line 2 redefines
-\w LIB basic from File /export/opt/cadence/installs/IC618/tools.lnx86/dfII/etc/cdsDotLibs/composer/cds.lib
-\w Insert UNDEFINE basic
-\w before DEFINE basic
-\w     in /home/echokeir2900/projects/p1/cds.lib
-\w Or remove or comment out DEFINE basic
-\w     in /export/opt/cadence/installs/IC618/tools.lnx86/dfII/etc/cdsDotLibs/composer/cds.lib
-\w to suppress this warning message.
-\a nrSetCurrentWindow(NewLibShell)
-\a nrSetCurrentWindow(workingDialogForm)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\w Warning: LIB basic from File /home/echokeir2900/projects/p1/cds.lib Line 2 redefines
-\w LIB basic from File /export/opt/cadence/installs/IC618/tools.lnx86/dfII/etc/cdsDotLibs/composer/cds.lib
-\w Insert UNDEFINE basic
-\w before DEFINE basic
-\w     in /home/echokeir2900/projects/p1/cds.lib
-\w Or remove or comment out DEFINE basic
-\w     in /export/opt/cadence/installs/IC618/tools.lnx86/dfII/etc/cdsDotLibs/composer/cds.lib
-\w to suppress this warning message.
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a cdsLibManager->libListBox->value = "CMOS"
-\a cdsLibManager->libLineEdit->value = "CMOS"
-\a nrSetCurrentWindow(cdsLibManager)
-\a cdsLibManager->libLineEdit->value = ""
-\a cdsLibManager->libListBox->value = nil
-\a nrListItemAction(cdsLibManager->libListBox "CMOS" 0)
-\a cdsLibManager->libListBox->value = "CMOS"
-\a cdsLibManager->libLineEdit->value = "CMOS"
-\a cdsLibManager->libLineEdit->value = ""
-\a cdsLibManager->libListBox->value = nil
-\a nrListItemAction(cdsLibManager->libListBox "CMOS" 0)
-\a cdsLibManager->libListBox->value = "CMOS"
-\a cdsLibManager->libLineEdit->value = "CMOS"
-\a nrSetCurrentWindow(cdsLibManager)
-\a cdsLibManager->FileNewCVButton->value = t
-\a cdsLibManager->libListBox->value = nil
-\a cdsLibManager->libLineEdit->value = ""
-\w Warning: LIB basic from File /home/echokeir2900/projects/p1/cds.lib Line 2 redefines
-\w LIB basic from File /export/opt/cadence/installs/IC618/tools.lnx86/dfII/etc/cdsDotLibs/composer/cds.lib
-\w Insert UNDEFINE basic
-\w before DEFINE basic
-\w     in /home/echokeir2900/projects/p1/cds.lib
-\w Or remove or comment out DEFINE basic
-\w     in /export/opt/cadence/installs/IC618/tools.lnx86/dfII/etc/cdsDotLibs/composer/cds.lib
-\w to suppress this warning message.
-\a cdsLibManager->libListBox->value = "CMOS"
-\a cdsLibManager->libLineEdit->value = "CMOS"
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a cdsLibManager->libListBox->value = nil
-\a cdsLibManager->libLineEdit->value = ""
-\w Warning: LIB basic from File /home/echokeir2900/projects/p1/cds.lib Line 2 redefines
-\w LIB basic from File /export/opt/cadence/installs/IC618/tools.lnx86/dfII/etc/cdsDotLibs/composer/cds.lib
-\w Insert UNDEFINE basic
-\w before DEFINE basic
-\w     in /home/echokeir2900/projects/p1/cds.lib
+\w     in /home/echokeir2900/projects/compe572-project1/p1/cds.lib
 \w Or remove or comment out DEFINE basic
 \w     in /export/opt/cadence/installs/IC618/tools.lnx86/dfII/etc/cdsDotLibs/composer/cds.lib
 \w to suppress this warning message.
@@ -192,127 +25,12 @@
 \a cdsLibManager->libLineEdit->value = "CMOS"
 \a cdsLibManager->cellListBox->value = "Inverter"
 \a cdsLibManager->cellLineEdit->value = "Inverter"
-\a cdsLibManager->viewListBox->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = "schematic"
-\a cdsLibManager->cellLineEdit->value = ""
-\a cdsLibManager->cellListBox->value = nil
-\a cdsLibManager->viewLineEdit->value = ""
-\a cdsLibManager->viewListBox->value = nil
-\a cdsLibManager->cellListBox->value = "Inverter"
-\a cdsLibManager->cellLineEdit->value = "Inverter"
-\a cdsLibManager->viewListBox->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = ""
-\a cdsLibManager->viewListBox->value = nil
+\a nrResizeWindow(cdsLibManager list(8 31 842 851))
+\a nrResizeWindow(cdsLibManager list(8 31 498 851))
 \a cdsLibManager->viewListBox->value = "schematic"
 \a cdsLibManager->viewLineEdit->value = "schematic"
 \a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrResizeWindow(cdsLibManager list(355 36 1270 711))
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrResizeWindow(cdsLibManager list(279 36 990 711))
-\a nrResizeWindow(cdsLibManager list(127 36 424 711))
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrResizeWindow(cdsLibManager list(10 36 541 711))
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrResizeWindow(cdsLibManager list(10 36 541 347))
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrResizeWindow(cdsLibManager list(10 36 547 347))
-\a nrResizeWindow(cdsLibManager list(10 36 557 347))
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrResizeWindow(cdsLibManager list(10 36 568 750))
-\a nrResizeWindow(cdsLibManager list(10 36 572 750))
-\a nrResizeWindow(cdsLibManager list(10 36 561 750))
-\a nrResizeWindow(cdsLibManager list(10 36 588 750))
-\a nrResizeWindow(cdsLibManager list(10 36 619 750))
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrResizeWindow(cdsLibManager list(10 36 776 733))
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrResizeWindow(cdsLibManager list(10 36 776 1054))
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrResizeWindow(cdsLibManager list(85 648 776 1054))
-\a nrResizeWindow(cdsLibManager list(81 649 658 894))
-\a nrResizeWindow(cdsLibManager list(10 726 776 674))
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrResizeWindow(cdsLibManager list(10 497 775 903))
-\a nrResizeWindow(cdsLibManager list(10 263 800 1137))
-\a nrResizeWindow(cdsLibManager list(10 263 592 1137))
-\a nrResizeWindow(cdsLibManager list(10 263 590 1137))
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrResizeWindow(cdsLibManager list(10 267 428 1133))
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrResizeWindow(cdsLibManager list(10 267 623 1133))
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrResizeWindow(cdsLibManager list(10 267 627 1133))
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrListItemAction(cdsLibManager->cellListBox 0 0)
-\o MPS request: edit design
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a cdsLibManager->cellLineEdit->value = ""
-\a cdsLibManager->cellListBox->value = nil
-\a cdsLibManager->viewLineEdit->value = ""
-\a cdsLibManager->viewListBox->value = nil
-\a cdsLibManager->cellListBox->value = "Inverter"
-\a cdsLibManager->cellLineEdit->value = "Inverter"
-\a cdsLibManager->viewListBox->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = "schematic"
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrResizeWindow(cdsLibManager list(10 357 620 1043))
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
+\a nrResizeWindow(cdsLibManager list(1 31 505 810))
 \a nrSetCurrentWindow(cdsLibManager)
 \a cdsLibManager->viewListBox->value = nil
 \a cdsLibManager->viewLineEdit->value = ""
@@ -320,50 +38,557 @@
 \a cdsLibManager->viewLineEdit->value = "schematic"
 \o MPS request: edit design
 \a nrListItemAction(cdsLibManager->gdmXTView 0 0)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrResizeWindow(cdsLibManager list(10 375 800 1025))
-\a nrSetCurrentWindow(cdsLibManager)
-\a cdsLibManager->viewLineEdit->value = ""
 \a cdsLibManager->viewListBox->value = nil
-\a lmgrLogShowPopup("mainListPopup2" 83 48 2 "")
-\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->viewLineEdit->value = ""
+\a nrResizeWindow(cdsLibManager list(1 31 505 810))
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
 \a cdsLibManager->cellListBox->value = nil
-\a lmgrLogShowPopup("mainListPopup1" 86 73 2 "")
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->cellLineEdit->value = ""
+\w Warning: LIB basic from File /home/echokeir2900/projects/compe572-project1/p1/cds.lib Line 2 redefines
+\w LIB basic from File /export/opt/cadence/installs/IC618/tools.lnx86/dfII/etc/cdsDotLibs/composer/cds.lib
+\w Insert UNDEFINE basic
+\w before DEFINE basic
+\w     in /home/echokeir2900/projects/compe572-project1/p1/cds.lib
+\w Or remove or comment out DEFINE basic
+\w     in /export/opt/cadence/installs/IC618/tools.lnx86/dfII/etc/cdsDotLibs/composer/cds.lib
+\w to suppress this warning message.
+\a cdsLibManager->libListBox->value = "CMOS"
+\a cdsLibManager->libLineEdit->value = "CMOS"
 \a cdsLibManager->cellListBox->value = "Inverter"
 \a cdsLibManager->cellLineEdit->value = "Inverter"
 \a cdsLibManager->viewListBox->value = "schematic"
 \a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->cellListBox->value = "Inverter"
+\a cdsLibManager->cellLineEdit->value = "Inverter"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->libListBox->value = "NCSU_Analog_Parts"
+\a cdsLibManager->libLineEdit->value = "NCSU_Analog_Parts"
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->cellListBox->value = "nmos4"
+\a cdsLibManager->cellLineEdit->value = "nmos4"
+\a nrResizeWindow(cdsLibManager list(1 31 888 810))
+\a nrResizeWindow(cdsLibManager list(1 31 624 810))
+\a nrResizeWindow(cdsLibManager list(1 31 501 810))
+\a nrResizeWindow(cdsLibManager list(1 31 508 810))
+\a nrResizeWindow(cdsLibManager list(1 31 506 810))
+\a cdsLibManager->libListBox->value = "CMOS"
+\a cdsLibManager->libLineEdit->value = "CMOS"
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->cellListBox->value = "Inverter"
+\a cdsLibManager->cellLineEdit->value = "Inverter"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->libListBox->value = "NCSU_Analog_Parts"
+\a cdsLibManager->libLineEdit->value = "NCSU_Analog_Parts"
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->cellListBox->value = "nmos4"
+\a cdsLibManager->cellLineEdit->value = "nmos4"
+\a cdsLibManager->viewListBox->value = "README"
+\a cdsLibManager->viewLineEdit->value = "README"
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = "README"
+\a cdsLibManager->viewLineEdit->value = "README"
+\o MPS request: edit design
+\a nrListItemAction(cdsLibManager->gdmXTView 0 0)
+\a lmgrLogShowPopup("mainListPopup2" 62 7 2 "README")
+\a cdsLibManager->FileOpenButton->value = t
+\o MPS request: edit design
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->libListBox->value = "CMOS"
+\a cdsLibManager->libLineEdit->value = "CMOS"
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->cellListBox->value = "Inverter"
+\a cdsLibManager->cellLineEdit->value = "Inverter"
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->cellListBox->value = "Inverter"
+\a cdsLibManager->cellLineEdit->value = "Inverter"
+\a cdsLibManager->viewListBox->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = "symbol"
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = "symbol"
+\o MPS request: edit design
+\a nrListItemAction(cdsLibManager->gdmXTView 1 0)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a nrSetCurrentWindow(cdsLibManager)
+\a lmgrLogShowPopup("mainListPopup2" 43 9 2 "schematic")
+\a cdsLibManager->editDeleteButton->value = t
+\a deleteForm->deleteFilterEdit->value = "*"
+\a deleteForm->notDeleteFilterEdit->value = "*"
+\a nrSetWindowVisibility(deleteForm "show")
+\a nrSetCurrentWindow(deleteForm)
+\a nrResizeWindow(deleteForm list(8 184 627 425))
+\a deleteForm->OK->value = t
+\o QUESTION (CLM-199): The following 1 items are marked for deletion.  Are you sure?
+\a nrSetWindowVisibility(mcMBXDLG "show")
+\a nrSetCurrentWindow(mcMBXDLG)
+\a nrResizeWindow(mcMBXDLG list(162 311 268 91))
+\a mcMBXDLG->pushButton1->value = t
+\o Deleting view "schematic" from cell "Inverter" in library "CMOS".
+\a nrSetWindowVisibility(workingDialogForm "show")
+\a nrResizeWindow(workingDialogForm list(110 330 268 133))
+\o Deleted cellview 'CMOS/Inverter/schematic'.
+\a nrSetCurrentWindow(deleteForm)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(workingDialogForm)
+\o Deletion of 1 view done.
+\a cdsLibManager->viewLineEdit->value = "symbol"
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->cellLineEdit->value = ""
+\w Warning: LIB basic from File /home/echokeir2900/projects/compe572-project1/p1/cds.lib Line 2 redefines
+\w LIB basic from File /export/opt/cadence/installs/IC618/tools.lnx86/dfII/etc/cdsDotLibs/composer/cds.lib
+\w Insert UNDEFINE basic
+\w before DEFINE basic
+\w     in /home/echokeir2900/projects/compe572-project1/p1/cds.lib
+\w Or remove or comment out DEFINE basic
+\w     in /export/opt/cadence/installs/IC618/tools.lnx86/dfII/etc/cdsDotLibs/composer/cds.lib
+\w to suppress this warning message.
+\a cdsLibManager->libListBox->value = "CMOS"
+\a cdsLibManager->libLineEdit->value = "CMOS"
+\a cdsLibManager->cellListBox->value = "Inverter"
+\a cdsLibManager->cellLineEdit->value = "Inverter"
+\a cdsLibManager->viewListBox->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = "symbol"
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->cellListBox->value = "Inverter"
+\a cdsLibManager->cellLineEdit->value = "Inverter"
+\a cdsLibManager->viewListBox->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a nrSetCurrentWindow(cdsLibManager)
+\a lmgrLogShowPopup("mainListPopup2" 30 58 2 "")
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->cellListBox->value = "Inverter"
+\a cdsLibManager->cellLineEdit->value = "Inverter"
+\a cdsLibManager->viewListBox->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\o MPS request: edit design
+\a nrListItemAction(cdsLibManager->cellListBox 0 0)
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->cellLineEdit->value = ""
+\w Warning: LIB basic from File /home/echokeir2900/projects/compe572-project1/p1/cds.lib Line 2 redefines
+\w LIB basic from File /export/opt/cadence/installs/IC618/tools.lnx86/dfII/etc/cdsDotLibs/composer/cds.lib
+\w Insert UNDEFINE basic
+\w before DEFINE basic
+\w     in /home/echokeir2900/projects/compe572-project1/p1/cds.lib
+\w Or remove or comment out DEFINE basic
+\w     in /export/opt/cadence/installs/IC618/tools.lnx86/dfII/etc/cdsDotLibs/composer/cds.lib
+\w to suppress this warning message.
+\a cdsLibManager->libListBox->value = "CMOS"
+\a cdsLibManager->libLineEdit->value = "CMOS"
+\a cdsLibManager->cellListBox->value = "Inverter"
+\a cdsLibManager->cellLineEdit->value = "Inverter"
+\a cdsLibManager->viewListBox->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = "symbol"
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->cellListBox->value = "Inverter"
+\a cdsLibManager->cellLineEdit->value = "Inverter"
+\a cdsLibManager->viewListBox->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = "symbol"
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->libListBox->value = "NCSU_Analog_Parts"
+\a cdsLibManager->libLineEdit->value = "NCSU_Analog_Parts"
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->fileCascade->value = "&3 CMOS  Inverter  schematic"
+\o MPS request: history (edit) CMOS Inverter schematic
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libListBox->value = "CMOS"
+\a cdsLibManager->libLineEdit->value = "CMOS"
+\a cdsLibManager->cellListBox->value = "Inverter"
+\a cdsLibManager->cellLineEdit->value = "Inverter"
+\a cdsLibManager->viewListBox->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a lmgrLogShowPopup("mainListPopup2" 35 46 2 "")
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->cellLineEdit->value = ""
+\w Warning: LIB basic from File /home/echokeir2900/projects/compe572-project1/p1/cds.lib Line 2 redefines
+\w LIB basic from File /export/opt/cadence/installs/IC618/tools.lnx86/dfII/etc/cdsDotLibs/composer/cds.lib
+\w Insert UNDEFINE basic
+\w before DEFINE basic
+\w     in /home/echokeir2900/projects/compe572-project1/p1/cds.lib
+\w Or remove or comment out DEFINE basic
+\w     in /export/opt/cadence/installs/IC618/tools.lnx86/dfII/etc/cdsDotLibs/composer/cds.lib
+\w to suppress this warning message.
+\a cdsLibManager->libListBox->value = "CMOS"
+\a cdsLibManager->libLineEdit->value = "CMOS"
+\a cdsLibManager->cellListBox->value = "Inverter"
+\a cdsLibManager->cellLineEdit->value = "Inverter"
+\a cdsLibManager->viewListBox->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = "symbol"
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->cellListBox->value = "Inverter"
+\a cdsLibManager->cellLineEdit->value = "Inverter"
+\a cdsLibManager->viewListBox->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->libListBox->value = "NCSU_Analog_Parts"
+\a cdsLibManager->libLineEdit->value = "NCSU_Analog_Parts"
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->cellListBox->value = "nmos4"
+\a cdsLibManager->cellLineEdit->value = "nmos4"
+\a cdsLibManager->viewListBox->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = "symbol"
+\a cdsLibManager->viewListBox->value = "README"
+\a cdsLibManager->viewLineEdit->value = "README"
+\a cdsLibManager->viewListBox->value = "auCdl"
+\a cdsLibManager->viewLineEdit->value = "auCdl"
+\a cdsLibManager->viewListBox->value = "auLvs"
+\a cdsLibManager->viewLineEdit->value = "auLvs"
+\a cdsLibManager->viewListBox->value = "functional"
+\a cdsLibManager->viewLineEdit->value = "functional"
+\a cdsLibManager->viewListBox->value = "ivpcell"
+\a cdsLibManager->viewLineEdit->value = "ivpcell"
+\a cdsLibManager->viewListBox->value = "spectre"
+\a cdsLibManager->viewLineEdit->value = "spectre"
+\a cdsLibManager->viewListBox->value = "ivpcell"
+\a cdsLibManager->viewLineEdit->value = "ivpcell"
+\a cdsLibManager->viewListBox->value = "hspiceS"
+\a cdsLibManager->viewLineEdit->value = "hspiceS"
+\a cdsLibManager->viewListBox->value = "functional"
+\a cdsLibManager->viewLineEdit->value = "functional"
+\a cdsLibManager->viewListBox->value = "hspiceS"
+\a cdsLibManager->viewLineEdit->value = "hspiceS"
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = "hspiceS"
+\a cdsLibManager->viewLineEdit->value = "hspiceS"
+\a cdsLibManager->libListBox->value = "CMOS"
+\a cdsLibManager->libLineEdit->value = "CMOS"
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->cellListBox->value = "Inverter"
+\a cdsLibManager->cellLineEdit->value = "Inverter"
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->viewListBox->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = "symbol"
+\a lmgrLogShowPopup("mainListPopup2" 38 30 2 "symbol")
+\a cdsLibManager->editDeleteButton->value = t
+\a nrResizeWindow(deleteForm list(8 184 627 425))
+\a nrSetCurrentWindow(deleteForm)
+\a deleteForm->OK->value = t
+\o QUESTION (CLM-199): The following 1 items are marked for deletion.  Are you sure?
+\a nrSetWindowVisibility(mcMBXDLG "show")
+\a nrSetCurrentWindow(mcMBXDLG)
+\a nrResizeWindow(mcMBXDLG list(162 311 268 91))
+\a mcMBXDLG->pushButton1->value = t
+\o Deleting view "symbol" from cell "Inverter" in library "CMOS".
+\a nrResizeWindow(workingDialogForm list(110 330 268 133))
+\o Deleted cellview 'CMOS/Inverter/symbol'.
+\a nrSetCurrentWindow(deleteForm)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(workingDialogForm)
+\o Deletion of 1 view done.
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->cellLineEdit->value = ""
+\w Warning: LIB basic from File /home/echokeir2900/projects/compe572-project1/p1/cds.lib Line 2 redefines
+\w LIB basic from File /export/opt/cadence/installs/IC618/tools.lnx86/dfII/etc/cdsDotLibs/composer/cds.lib
+\w Insert UNDEFINE basic
+\w before DEFINE basic
+\w     in /home/echokeir2900/projects/compe572-project1/p1/cds.lib
+\w Or remove or comment out DEFINE basic
+\w     in /export/opt/cadence/installs/IC618/tools.lnx86/dfII/etc/cdsDotLibs/composer/cds.lib
+\w to suppress this warning message.
+\a cdsLibManager->libListBox->value = "CMOS"
+\a cdsLibManager->libLineEdit->value = "CMOS"
+\a cdsLibManager->cellListBox->value = "Inverter"
+\a cdsLibManager->cellLineEdit->value = "Inverter"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->cellListBox->value = "Inverter"
+\a cdsLibManager->cellLineEdit->value = "Inverter"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
 \a nrSetCurrentWindow(cdsLibManager)
 \a nrSetCurrentWindow(cdsLibManager)
 \a nrSetCurrentWindow(cdsLibManager)
 \a nrSetCurrentWindow(cdsLibManager)
+\a lmgrLogShowPopup("mainListPopup2" 59 78 2 "")
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->libListBox->value = "CMOS"
+\a cdsLibManager->libLineEdit->value = "CMOS"
+\a cdsLibManager->cellListBox->value = "Inverter"
+\a cdsLibManager->cellLineEdit->value = "Inverter"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->cellListBox->value = "Inverter"
+\a cdsLibManager->cellLineEdit->value = "Inverter"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->FileNewCVButton->value = t
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->cellLineEdit->value = ""
+\w Warning: LIB basic from File /home/echokeir2900/projects/compe572-project1/p1/cds.lib Line 2 redefines
+\w LIB basic from File /export/opt/cadence/installs/IC618/tools.lnx86/dfII/etc/cdsDotLibs/composer/cds.lib
+\w Insert UNDEFINE basic
+\w before DEFINE basic
+\w     in /home/echokeir2900/projects/compe572-project1/p1/cds.lib
+\w Or remove or comment out DEFINE basic
+\w     in /export/opt/cadence/installs/IC618/tools.lnx86/dfII/etc/cdsDotLibs/composer/cds.lib
+\w to suppress this warning message.
+\a cdsLibManager->libListBox->value = "CMOS"
+\a cdsLibManager->libLineEdit->value = "CMOS"
+\a cdsLibManager->cellListBox->value = "Inverter"
+\a cdsLibManager->cellLineEdit->value = "Inverter"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->cellListBox->value = "Inverter"
+\a cdsLibManager->cellLineEdit->value = "Inverter"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
 \a nrSetCurrentWindow(cdsLibManager)
 \a nrSetCurrentWindow(cdsLibManager)
 \a nrSetCurrentWindow(cdsLibManager)
 \a nrSetCurrentWindow(cdsLibManager)
-\a nrResizeWindow(cdsLibManager list(10 375 803 1025))
-\a nrResizeWindow(cdsLibManager list(10 375 794 1025))
-\a nrResizeWindow(cdsLibManager list(10 375 810 1025))
+\a nrResizeWindow(cdsLibManager list(1 31 506 623))
+\a nrResizeWindow(cdsLibManager list(1 31 506 623))
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->cellLineEdit->value = ""
+\w Warning: LIB basic from File /home/echokeir2900/projects/compe572-project1/p1/cds.lib Line 2 redefines
+\w LIB basic from File /export/opt/cadence/installs/IC618/tools.lnx86/dfII/etc/cdsDotLibs/composer/cds.lib
+\w Insert UNDEFINE basic
+\w before DEFINE basic
+\w     in /home/echokeir2900/projects/compe572-project1/p1/cds.lib
+\w Or remove or comment out DEFINE basic
+\w     in /export/opt/cadence/installs/IC618/tools.lnx86/dfII/etc/cdsDotLibs/composer/cds.lib
+\w to suppress this warning message.
+\a cdsLibManager->libListBox->value = "CMOS"
+\a cdsLibManager->libLineEdit->value = "CMOS"
+\a cdsLibManager->cellListBox->value = "Inverter"
+\a cdsLibManager->cellLineEdit->value = "Inverter"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->cellLineEdit->value = ""
+\w Warning: LIB basic from File /home/echokeir2900/projects/compe572-project1/p1/cds.lib Line 2 redefines
+\w LIB basic from File /export/opt/cadence/installs/IC618/tools.lnx86/dfII/etc/cdsDotLibs/composer/cds.lib
+\w Insert UNDEFINE basic
+\w before DEFINE basic
+\w     in /home/echokeir2900/projects/compe572-project1/p1/cds.lib
+\w Or remove or comment out DEFINE basic
+\w     in /export/opt/cadence/installs/IC618/tools.lnx86/dfII/etc/cdsDotLibs/composer/cds.lib
+\w to suppress this warning message.
+\a cdsLibManager->libListBox->value = "CMOS"
+\a cdsLibManager->libLineEdit->value = "CMOS"
+\a cdsLibManager->cellListBox->value = "Inverter"
+\a cdsLibManager->cellLineEdit->value = "Inverter"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->FileNewCVButton->value = t
 \a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->cellLineEdit->value = ""
+\w Warning: LIB basic from File /home/echokeir2900/projects/compe572-project1/p1/cds.lib Line 2 redefines
+\w LIB basic from File /export/opt/cadence/installs/IC618/tools.lnx86/dfII/etc/cdsDotLibs/composer/cds.lib
+\w Insert UNDEFINE basic
+\w before DEFINE basic
+\w     in /home/echokeir2900/projects/compe572-project1/p1/cds.lib
+\w Or remove or comment out DEFINE basic
+\w     in /export/opt/cadence/installs/IC618/tools.lnx86/dfII/etc/cdsDotLibs/composer/cds.lib
+\w to suppress this warning message.
+\a cdsLibManager->libListBox->value = "CMOS"
+\a cdsLibManager->libLineEdit->value = "CMOS"
+\a cdsLibManager->cellListBox->value = "Inverter"
+\a cdsLibManager->cellLineEdit->value = "Inverter"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
 \a nrSetCurrentWindow(cdsLibManager)
-\a nrResizeWindow(cdsLibManager list(10 375 770 1025))
-\a nrResizeWindow(cdsLibManager list(10 375 788 1025))
-\a nrResizeWindow(cdsLibManager list(10 375 778 1025))
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->cellLineEdit->value = ""
+\w Warning: LIB basic from File /home/echokeir2900/projects/compe572-project1/p1/cds.lib Line 2 redefines
+\w LIB basic from File /export/opt/cadence/installs/IC618/tools.lnx86/dfII/etc/cdsDotLibs/composer/cds.lib
+\w Insert UNDEFINE basic
+\w before DEFINE basic
+\w     in /home/echokeir2900/projects/compe572-project1/p1/cds.lib
+\w Or remove or comment out DEFINE basic
+\w     in /export/opt/cadence/installs/IC618/tools.lnx86/dfII/etc/cdsDotLibs/composer/cds.lib
+\w to suppress this warning message.
+\a cdsLibManager->libListBox->value = "CMOS"
+\a cdsLibManager->libLineEdit->value = "CMOS"
+\a cdsLibManager->cellListBox->value = "Inverter"
+\a cdsLibManager->cellLineEdit->value = "Inverter"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
 \a nrSetCurrentWindow(cdsLibManager)
 \a nrSetCurrentWindow(cdsLibManager)
 \a nrSetCurrentWindow(cdsLibManager)

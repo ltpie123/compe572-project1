@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      echokeir2900
 HostName                       volta
-ProcessIdentifier              819961
-ProcessCreationTime_UTC        1739862110
-ProcessCreationTime_Readable   Mon Feb 17 23:01:50 2025 PST
+ProcessIdentifier              2934350
+ProcessCreationTime_UTC        1740129115
+ProcessCreationTime_Readable   Fri Feb 21 01:11:55 2025 PST
 AppIdentifier                  /export/opt/cadence/installs/IC618/tools/dfII/bin/64bit/libManager
 OSType                         lnx86
 ReasonForPlacingEditLock       log file
-FilePathUsedToEditLock         /home/echokeir2900/projects/p1/libManager.log
-TimeEditLocked                 Mon Feb 17 23:01:51 2025 PST
+FilePathUsedToEditLock         /home/echokeir2900/projects/compe572-project1/p1/libManager.log
+TimeEditLocked                 Fri Feb 21 01:11:56 2025 PST
